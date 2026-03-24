@@ -30,7 +30,6 @@ POST /users
   "id": "12345",
   "name": "John Doe",
   "email": "john@example.com",
-  "created_at": "2026-03-24T10:00:00Z"
 }
 
 ### Get User
