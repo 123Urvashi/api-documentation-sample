@@ -51,13 +51,3 @@ GET /users/{id}
 | 401  | Unauthorized |
 | 404  | User Not Found |
 | 500  | Internal Server Error |
-
-
-## Additional Writing Samples
-
-I have also included additional writing samples demonstrating:
-- How-to documentation (Jira + Confluence workflow)
-- Release notes for product updates
-- Structured procedural documentation
-
-Please refer to the attached PDF for detailed examples.
